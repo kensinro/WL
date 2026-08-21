@@ -1,9 +1,9 @@
 {
   "package_version": "0.1.0",
   "release_tier": "MINIMUM_PUBLIC_PROOF",
-  "github_repository_status": "NOT_YET_VERIFIED",
+  "github_repository_status": "LIVE_VERIFIED",
   "immutable_release_status": "NOT_YET_CREATED",
-  "canonical_spec_status": "IDENTIFIED_NOT_PUBLIC",
+  "canonical_spec_status": "PUBLIC_PROOF_BOUNDARY_VERIFIED",
   "license_status": "NO_PUBLIC_REUSE_LICENSE",
   "zenodo_status": "NOT_YET_VERIFIED",
   "doi_status": "NOT_YET_VERIFIED",
