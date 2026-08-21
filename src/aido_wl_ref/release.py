@@ -22,8 +22,8 @@ def validate_release_truth(root: str | Path) -> list[str]:
     status = load_release_status(root)
     issues: list[str] = []
 
-    if status.get("package_version") != "0.1.0":
-        issues.append("package_version must equal 0.1.0")
+    if status.get("package_version") != "0.1.1":
+        issues.append("package_version must equal 0.1.1")
     if status.get("release_tier") != "MINIMUM_PUBLIC_PROOF":
         issues.append("release_tier must equal MINIMUM_PUBLIC_PROOF")
     if status.get("github_repository_status") not in ALLOWED_GITHUB:

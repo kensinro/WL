@@ -1,6 +1,6 @@
 # AIDO-WL Reference Package
 
-**Package version:** 0.1.0  
+**Package version:** 0.1.1  
 **Release tier:** Minimum Public Proof / Reference Package  
 **Status:** local release candidate; public repository/archive state must be verified after upload
 
