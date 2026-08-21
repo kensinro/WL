@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0",
+  "scientific_claim_boundary": {
+    "population_efficacy_claimed": false,
+    "universal_writing_superiority_claimed": false,
+    "software_pass_equals_scientific_correctness": false
+  },
+  "intervention": {
+    "cases": 3,
+    "e5_pass": {
+      "numerator": 3,
+      "denominator": 3
+    },
+    "case2": {
+      "e1_e4_total_judgments": 16,
+      "post": 8,
+      "pre": 3,
+      "tie": 5,
+      "directional_judgments": 11,
+      "post_among_directional": {
+        "numerator": 8,
+        "denominator": 11
+      }
+    },
+    "case3": {
+      "protocol_valid_evaluators": 3,
+      "overall_post": {
+        "numerator": 3,
+        "denominator": 3
+      },
+      "e1_post": {
+        "numerator": 3,
+        "denominator": 3
+      },
+      "e2": {
+        "post": 2,
+        "tie": 1,
+        "denominator": 3
+      },
+      "e3": {
+        "post": 2,
+        "tie": 1,
+        "denominator": 3
+      },
+      "e4_post": {
+        "numerator": 3,
+        "denominator": 3
+      },
+      "excluded_evaluators": 1,
+      "excluded_failure_type": "SYSTEMATIC_A_B_LABEL_INVERSION"
+    }
+  },
+  "executable_governance": {
+    "source_regression": {
+      "pass": 64,
+      "total": 64
+    },
+    "built_package_regression": {
+      "pass": 64,
+      "total": 64
+    },
+    "demonstration_fixture": {
+      "pass": 29,
+      "total": 29
+    },
+    "witness_1": {
+      "pass": 25,
+      "hold": 4,
+      "total": 29
+    },
+    "adversarial_challenge_1": {
+      "detected": 7,
+      "total": 7
+    },
+    "witness_2": {
+      "pass": 27,
+      "hold": 2,
+      "total": 29
+    },
+    "adversarial_challenge_2": {
+      "detected": 8,
+      "total": 8
+    }
+  }
+}
