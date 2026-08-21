@@ -1,0 +1,21 @@
+{
+  "title": "AIDO-WL Reference Package",
+  "description": "Minimum public proof and reproducibility package for the AIDO-WL manuscript. This is not the full internal Writing Layer specification or private implementation.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Kong, Sin Guan"
+    }
+  ],
+  "access_right": "open",
+  "version": "0.1.0",
+  "keywords": [
+    "scientific writing",
+    "research integrity",
+    "reproducibility",
+    "human-in-the-loop",
+    "provenance",
+    "manuscript audit"
+  ],
+  "notes": "Public accessibility does not grant software reuse rights; see LICENSE_BOUNDARY.md."
+}
