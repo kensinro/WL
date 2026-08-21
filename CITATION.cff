@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this reference package, please cite the associated AIDO-WL manuscript and the archived software release when available."
+title: "AIDO-WL Reference Package"
+type: software
+version: 0.1.0
+authors:
+  - family-names: "Kong"
+    given-names: "Sin Guan"
+repository-code: "https://github.com/kensinro/WL"
