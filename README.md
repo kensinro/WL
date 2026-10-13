@@ -86,3 +86,11 @@ Software PASS means only that a declared check behaved as specified under the te
 It does **not** establish scientific correctness, semantic truth, universal reproducibility, manuscript superiority, reader comprehension, journal acceptance, or autonomous scientific entitlement.
 
 Final scientific interpretation and authorization remain Human-Governed.
+
+## WL1.1 four-case manuscript: separate evidence lineage (2026-10-13)
+
+**Do not treat this v0.1.1 reference package as validation or reproduction of the later WL1.1 study.** This frozen package reports **three intervention cases and E5 3/3 PASS**, whereas the subsequent WL1.1 manuscript reports **four cases, E5 4/4, a 56-record blinded union, 51 reasoning comparison units, and RP1 0/51 detected material regressions**. The counts represent different research records; no values in `data/frozen_evidence.json` were changed or backfilled.
+
+The October 2026 JAE-to-publishing-journal manuscript comparison found **no detected change in the reported four-case numerical outcomes, the three main table cell texts, or core endpoint directions**. That result is a **bounded cross-version manuscript audit**, not a re-execution of primary experimental records or certification of source scientific truth. The detailed private audit and any original unpublished materials are not contained here.
+
+Read [the public WL1.1 evidence-boundary crosswalk](WL11_MANUSCRIPT_STATUS_20261013.md) before using this repository to support a later WL1.1 manuscript. This is **status documentation only**, not a new validated release or a claim of journal submission. Human Gate applies to release of original evidence.
